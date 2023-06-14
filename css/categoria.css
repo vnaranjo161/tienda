@@ -1,0 +1,37 @@
+body{
+    background-image: url(../images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: cursive;
+}
+header{
+    padding: 30px 0 40px 0;
+}
+
+table img{
+    width: 250px;
+    height: 250px;
+}
+
+table{
+    width: 80%;
+    margin: 0 5%;
+    padding: 80px;
+    border-bottom:1px #FFF solid;
+}
+
+th{
+    width: 20%;
+    padding-bottom: 50px;
+}
+
+.titulo{
+    font-size: larger;
+}
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
